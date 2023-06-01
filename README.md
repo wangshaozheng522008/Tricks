@@ -1,0 +1,2 @@
+# Tricks
+Tricks for troubleshooting
